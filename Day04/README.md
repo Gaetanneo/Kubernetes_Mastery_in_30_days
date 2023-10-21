@@ -2,7 +2,7 @@
 
 Welcome to Day 4 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll learn how to set up a local Kubernetes environment using tools like Minikube.
 
-## 📋 Learning Objectives
+## 📋 Learning Objectives:
 
 By the end of today, you will:
 - **Local Kubernetes Setup**: Set up a local Kubernetes cluster for development and testing purposes.
