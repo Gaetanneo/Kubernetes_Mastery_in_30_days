@@ -2,7 +2,7 @@
 
 Welcome to Day 5 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll understand kubeconfig files and learn to write YAML files for deploying applications and services.
 
-## 📋 Learning Objectives
+## 📋 Learning Objectives:
 
 By the end of today, you will:
 - **kubeconfig Files**: Learn about kubeconfig files and their role in Kubernetes configuration.
