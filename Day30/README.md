@@ -7,7 +7,7 @@ Welcome to Day 30, the final day of the Kubernetes 30-Day Learning Challenge! �
 
 Today's project is all about applying what you've learned throughout this challenge to deploy a real-world application on a Kubernetes cluster. We'll use a combination of tools like Jenkins, SonarQube, ArgoCD, and JFrog Artifactory to create a streamlined CI/CD pipeline with artifact management.
 
-## 🚀 Project Objectives
+## 🚀 Project Objectives:
 
 By the end of today, you will:
 - **Set Up Jenkins**: Configure Jenkins for automated build and testing.
