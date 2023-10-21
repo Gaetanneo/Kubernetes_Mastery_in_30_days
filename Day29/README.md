@@ -2,7 +2,7 @@
 
 Welcome to Day 29 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll discover Google Kubernetes Engine (GKE), Google Cloud's managed Kubernetes service, and explore its capabilities.
 
-## 📋 Learning Objectives
+## 📋 Learning Objectives:
 
 By the end of today, you will:
 - **Google GKE**: Understand what Google GKE is and why it's a popular choice for Kubernetes.
